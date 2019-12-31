@@ -23,7 +23,7 @@ Run the prepare script which will generate the database needed to initialize gua
 
 ~~~bash
 sudo ./prepare.sh
----
+~~~
 
 Run guacammole:
 
