@@ -1,6 +1,6 @@
 # Guacamole with docker-compose
 
-I forked this from [boschkundendienst/guacamole-docker-compose](https://github.com/boschkundendienst/guacamole-docker-compose). I've modified it to work with my existing docker setup that I got up and running using [Plexguide](https://pgblitz.com/). Follow the steps below to get yours working as well. In the end, you should have a working guacamole docker that you can access from https://guac.yourdomain.com or https://guacamole.yourdomain.com using the built in Traefik of Plexguide. The database and guacamole recording files will be stored in `/opt/appdata/guacamole`.Enjoy!
+I forked this from [boschkundendienst/guacamole-docker-compose](https://github.com/boschkundendienst/guacamole-docker-compose). I've modified it to work with my existing docker setup that I got up and running using [Plexguide](https://pgblitz.com/). Follow the steps below to get yours working as well. In the end, you should have a working guacamole docker that you can access from https://guac.yourdomain.com or https://guacamole.yourdomain.com using the built in Traefik of Plexguide. The database and guacamole recording files will be stored in `/opt/appdata/guacamole`. Enjoy!
 
 
 
