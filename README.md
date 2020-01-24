@@ -9,7 +9,7 @@ Clone the GIT repository in your home directory:
 
 ~~~bash
 cd ~/
-git clone "https://github.com/alustig/guacamole-docker-compose.git"
+git clone "https://github.com/navy2x/guacamole-docker-compose.git"
 ~~~
 
 Edit the docker-compose.yml and change the `traefik.frontend.rule` to your domain, as well as the `POSTGRES_ PASSWORD` in both the guacamole and postgres sections:
@@ -25,7 +25,7 @@ Run the prepare script which will generate the database needed to initialize gua
 sudo ./prepare.sh
 ~~~
 
-Run guacammole:
+Run guacamole:
 
 ~~~bash
 sudo docker-compose up -d
