@@ -37,7 +37,7 @@ Make sure you have both subdomains in cloud provider:
 ![cloudflare](https://user-images.githubusercontent.com/9492874/71634501-9035ad80-2bea-11ea-92e8-59c097c7b178.gif)
 
 
-Restart the traefik container and you should be up and running at your URL https://guac.yourdomain.com or https://guacamole.yourdomain.com
+Restart the traefik container and you should be up and running at your URL https://guac.yourdomain.com or https://guacamole.yourdomain.com. The default username is `guacadmin` with password `guacadmin`.
 
 
 ---
